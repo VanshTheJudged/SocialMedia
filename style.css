@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+textarea {
+    width: 80%;
+    height: 100px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#confessionsList {
+    margin-top: 20px;
+    text-align: left;
+    max-width: 600px;
+    margin: auto;
+}
